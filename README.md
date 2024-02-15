@@ -1,51 +1,37 @@
-# rpgGame
+# RPGGame - Jogo de RPG Criado em C#
 
-Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
+## Abstraindo um Jogo de RPG Usando Orientação a Objetos com C#
 
-# Arous
+### Personagens:
 
- Level: 1
- 
- Type: warrior
- 
- Health: 300
- 
- Magic Point: 50
+1. **Arous**
+   - **Nível:** 1
+   - **Tipo:** Guerreiro
+   - **Saúde:** 300
+   - **Pontos de Magia:** 50
 
-# Saitama
+2. **Saitama**
+   - **Nível:** 1
+   - **Tipo:** Demônio
+   - **Saúde:** 300
+   - **Pontos de Magia:** 40
 
- Level: 1
- 
- Type: Devil
- 
- Health: 300
- 
- Magic Point: 40
+3. **Jenica**
+   - **Nível:** 11
+   - **Tipo:** Feiticeiro
+   - **Saúde:** 150
+   - **Pontos de Magia:** 400
 
-# Jenica
+4. **PoPIS**
+   - **Nível:** 11
+   - **Tipo:** Druida Branco
+   - **Saúde:** 80
+   - **Pontos de Magia:** 600
 
- Level: 11
- 
- Type: wizzard
- 
- Health: 150
- 
- Magic Point: 400
+### Eventos de Batalha:
 
-# PoPIS 
+- **Saitama:** Atacou com uma espada super, causando 33 de dano.
+- **Jenica:** Falhou em lançar um feitiço poderoso, resultando em um ataque fraco causando 2 de dano.
+- **PoPIS:** O veneno lançado não teve efeito, causando 2 de dano.
+- **PoPIS:** Novamente, o veneno não surtiu efeito, causando 6 de dano.
 
- Level: 11 
- 
- Type: Druid white 
- 
- Health: 80 
- 
- Magic Point: 600 
-
-Saitama Ataque com Espada super  daño: 33
-
-Jenica Fail power Magia low Atact 2
-
-PoPIS veneno não fez efeito 2
-
-PoPIS veneno não fez efeito 6
